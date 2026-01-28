@@ -1,0 +1,92 @@
+
+[
+    {
+        "id":1,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":2,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":3,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":4,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":5,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":6,
+        "name":"Food Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":1300,
+        "category":"Food",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":7,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":500,
+        "category":"Song",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":8,
+        "name":"Sports Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":250,
+        "category":"Sports ",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":9,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":10,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":100,
+        "category":"Entertainment",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    },
+    {
+        "id":11,
+        "name":"Store Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=1&uuid=6ca0790d-9071-49d1-9e40-353f56f63aa3&query=books"
+    }
+
+]

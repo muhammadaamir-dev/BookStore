@@ -11,9 +11,9 @@ const Course = () => {
     const getBook = async () => {
 
       try {
-        const res = await axios.get("http://localhost:8080/book")
-        console.log(res.data)
-        setBook(res.data)
+        const res = await axios.get("http://localhost:5000/book")
+        console.log(res.data.data)
+        setBook(res.data.data)
 
       }
       catch (error) {

@@ -11,9 +11,9 @@ const FreeBooks = () => {
     useEffect(() => {
       const getBook = async () => {
         try {
-          const res = await axios.get("http://localhost:8080/book");
-          console.log(res.data);
-          setBook(res.data.filter((data)=>data.category==="Free"));
+          const res = await axios.get("http://localhost:5000/book");
+          console.log(res.data.data);
+          setBook(res.data.data.filter((data)=>data.category==="Free"));
            
         } catch (error) {
           console.log(error);
@@ -28,6 +28,7 @@ const FreeBooks = () => {
         slidesToShow: 3,
         slidesToScroll: 3,
         initialSlide: 0,
+         arrows: false,
         responsive: [
             {
                 breakpoint: 1224,

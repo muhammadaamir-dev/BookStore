@@ -19,7 +19,7 @@ const Login = () => {
          password: data.password,
        };
        await axios
-         .post("http://localhost:8080/user/login", userInfo)
+         .post("http://localhost:5000/user/login", userInfo)
          .then((res) => {
            console.log(res.data);
            if (res.data) {

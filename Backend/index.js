@@ -14,7 +14,7 @@ const port = process.env.PORT || 3000;
 // Middlewares
 app.use(express.json());
 app.use(cors({
-  origin: "http://localhost:5173", // <-- frontend URL
+  origin: "https://book-store-ywss.vercel.app", // <-- frontend URL
   credentials: true
 }));
 

@@ -20,7 +20,7 @@ const Signup = () => {
         }
 
         try {
-            const res = await axios.post("https://book-store-five-dun.vercel.app/signup", userInfo)
+            const res = await axios.post("https://book-store-backend.vercel.app/signup", userInfo)
 
             if (res.data) {
                 toast.success("Signup Successful!")

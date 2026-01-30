@@ -19,7 +19,7 @@ const Login = () => {
          password: data.password,
        };
        await axios
-         .post("https://book-store-five-dun.vercel.app/login", userInfo)
+         .post("https://book-store-backend.vercel.app/login", userInfo)
          .then((res) => {
            console.log(res.data);
            if (res.data) {

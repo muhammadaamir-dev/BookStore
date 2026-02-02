@@ -28,7 +28,7 @@ A Book Store Web Application built using the **MERN stack** where user and book 
 - React Hook Form (Form handling & validation)  
 - React Hot Toast (Notifications)  
 - Lucide React (Icons)  
-- React Slick & Slick Carousel (UI sliders)  
+- React  Carousel (UI sliders)  
 - Tailwind CSS (Styling)  
 
 **What I Learned**
